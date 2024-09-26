@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": "Liam Beatty",
+      "title": "Truckie wants licence back after fatal crash",
+      "description": "A truck driver charged with failing to provide a blood sample after a crash that killed sports journalist Sam Landsberger has flagged he plans to ask a court to lift his drivers licence suspension. James Latchford, 45, appeared in the Melbourne Magistrates’ C…",
+      "url": "https://www.news.com.au/national/victoria/courts-law/sam-landsberger-death-truck-driver-james-latchford-flags-licence-appeal/news-story/c2e87d5250e27679feaa22e6186acbeb",
+      "urlToImage": "https://content.api.news/v3/images/bin/a8283edd116becc1f4901863f146c6af",
+      "publishedAt": "2024-09-23T02:06:00Z",
+      "content": "A truck driver charged with failing to provide a blood sample after a crash that killed sports journalist Sam Landsberger has flagged he plans to ask a court to lift his drivers licence suspension. J… [+2027 chars]"
+    },
+    {
+      "source": { "id": "financial-post", "name": "Financial Post" },
+      "author": "Barbara Shecter",
+      "title": "After Rogers’ MLSE deal, powerhouse sports IPO could be close to a slam dunk, say analysts",
+      "description": "BCE's exit from MLSE has Bay Street excited by the prospect of an IPO amid record-breaking prices for sports franchises. Keep reading here.",
+      "url": "https://financialpost.com/fp-finance/rogers-mlse-deal-create-leafs-raptors-jays-ipo",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/09/leafs-matthews-gs0921.png",
+      "publishedAt": "2024-09-20T14:36:05Z",
+      "content": "Would include Toronto Maple Leafs, Toronto Raptors and Toronto Blue Jays\r\n Get the latest from Barbara Shecter straight to your inbox Sign Up\r\nAuston Matthews of the Toronto Maple Leafs shoots agains… [+10178 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "John Fanta, Michael Cohen",
+      "title": "College basketball roundtable: Michigan State's tourney streak, top transfers and more",
+      "description": "Is Michigan State's NCAA Tournament streak in jeopardy? Who is the top transfer in the nation? FOX Sports' college basketball experts answer that and more.",
+      "url": "http://www.foxsports.com/stories/college-basketball/college-basketball-roundtable-michigan-states-tourney-streak-top-transfers-and-more",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/02/1408/814/2024-02-29_College-Basketball-Roundtable_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2024-02-29T20:59:30Z",
+      "content": "It's almost time, ladies and gentlemen!\r\nThat long-awaited, fun-filled day when you wait to hear your team's name called before breaking out a pen and paper to fill out your NCAA Tournament bracket i… [+17577 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "New Micah Parsons Show ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/490566-the-edge-w-micah-parsons-ep-11-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-11-27T20:37:24.6381564Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": " Mikal Bridges Interview ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/491103-taylor-rooks-x-mikal-bridges-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-11-27T20:37:24.3882176Z",
+      "content": "Nets star sits down with Taylor Rooks for exclusive convo."
+    }
+  ]
+}
